@@ -1,0 +1,49 @@
+.heading {
+	font-size: 24px;
+	font-weight: bold;
+	color: red;
+	margin-bottom: 20px;: 
+}
+
+.chicken-text {
+	color: red;
+	font-size: 20px;
+}
+
+.navbar-brand {
+	color: red;
+}
+.chicken {
+	height: 1000px;
+	margin-top: 10px;
+	padding-top: 10px;
+	border: 1px solid #61122f;
+	background-color: lightgray;
+}
+
+.navbar-default {
+	        border-color: #e7e7e7;
+}
+
+#nav-list span {
+	font-size: 21px;
+	color: red;
+}
+
+/* background: antiquewhite; */
+
+/*********** Medium Size Devices **************/
+@media(max-width: 767px) {
+
+.container-fluid {
+	padding-right: 45px;
+	padding-left: 45px;
+}
+
+}
+
+/*********** Small Size Devices **************/
+@media (max-width: ) {
+
+
+}
